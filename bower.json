@@ -1,0 +1,21 @@
+{
+  "name": "food_delivery_cy",
+  "description": "foods",
+  "main": "index.js",
+  "authors": [
+    "Mirakhmed <mturakulov@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/Mirakhmed/food_delivery_cy",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "underscore": "^1.8.3",
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
